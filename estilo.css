@@ -5,6 +5,10 @@ body {
     text-align: center;
     padding: 20px;
 }
+@media (min-width: 768px)
+img {
+    width:400px;
+}
 h1,h2,p{
   color: beige;
 }
